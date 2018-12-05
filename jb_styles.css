@@ -14,3 +14,47 @@
    Jersey Buoys home page
 
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ============================
+   Mobile Styles: 0px to 480px
+   ============================
+*/
+@media only screen and (max-width: 480px) {}
+
+
+
+
+
+
+
+
+
+/* ==============================
+   Table Styles: 481px to greater
+   ==============================
+*/
+@media only screen and (min-width: 481px) {}
+
+
+
+
+
+
+
+/* ==============================
+   Desktop Styles: 769px to greater
+   ==============================
+*/
+@media only screen and (min-width: 769px) {}
